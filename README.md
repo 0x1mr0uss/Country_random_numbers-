@@ -11,4 +11,4 @@ And you can also choose the first numbers like:
 * `7XXXXXXXX`
 
 ## Tool Interface
-<img src="https://github.com/user-attachments/assets/cf29c2b5-4558-489c-bf7e-6e4941161ec0" width="100%" alt="Numtrack Interface" />
+<img src="blob:https://gemini.google.com/214b2b07-d198-4f4a-a987-2166b8c4da71" width="100%" alt="Numtrack Interface" />
