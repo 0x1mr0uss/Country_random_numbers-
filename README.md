@@ -14,4 +14,4 @@ And you can also choose the first numbers like:
 ## Tool Interface
 <img width="979" height="512" alt="picture png" src="https://github.com/user-attachments/assets/3fcaf641-2eb1-4553-9bef-e4164910cf9d" />
 
-[ For download it just click here (.exe)](random_numbers.exe)
+* **[Download random_numbers.exe](random_numbers.exe)**
